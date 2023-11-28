@@ -1,6 +1,6 @@
 {
-"label":"Search",
+"label":"Поиск",
 "icon":"../../Icons/Default/app/search.png",
 "launch":"launch.sh",
-"description":"Search game library"
+"description":"Найти игру"
 }
