@@ -2,5 +2,5 @@
 "label":"Поиск",
 "icon":"../../Icons/Default/app/search.png",
 "launch":"launch.sh",
-"description":"Найти игру"
+"description":"Найти игру в консоле"
 }

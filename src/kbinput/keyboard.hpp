@@ -123,8 +123,8 @@ public:
         input = InputField(display, _value);
 
         legend = Legend(display, new std::vector<LegendItem>{
-            {res[RES_BUTTON_A], "Enter", "A"},
-            {res[HOTKEY_CANCEL_RES], "Cancel", HOTKEY_CANCEL_RES_ALT}
+            {res[RES_BUTTON_A], "Ввод", "A"},
+            {res[HOTKEY_CANCEL_RES], "Отмена", HOTKEY_CANCEL_RES_ALT}
         });
 
         render();

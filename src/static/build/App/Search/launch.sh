@@ -8,7 +8,7 @@ cd /mnt/SDCARD/.tmp_update
 if [ "$ext" = "miyoocmd" ]; then
     filename=`basename "$1" .miyoocmd`
 
-    if [ "$filename" = "Enter search term..." ]; then
+    if [ "$filename" = "Введите запрос..." ]; then
         mode="search"
     else
         mode="noop"
